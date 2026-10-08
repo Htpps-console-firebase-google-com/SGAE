@@ -1,0 +1,312 @@
+👑 SGAE MASTER · OWNER PROFILE
+
+🔐 IDENTITY (Public Information Only)
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║           SGAE MASTER · OWNER PROFILE                        ║
+║                                                              ║
+║  👤  NAME          : Muhamad Sazwan Bin Ismail               ║
+║  🎂  DATE OF BIRTH : 22.10.1996                              ║
+║  💬  HANDLE        : @SAZWAN96                               ║
+║  🐙  GITHUB        : @Sazwanismail                           ║
+║  📍  ORIGIN        : Sungai Petani, Kedah, Malaysia          ║
+║                                                              ║
+║  🔐  REFERENCE     : CMC-REF-2026-MSI-003                    ║
+║  🎫  SERIAL        : MSI-2026-07734                          ║
+║  ✍️   SIGNATURE     : SHA-256 VERIFIED@SAZWAN96              ║
+║  📅  REGISTERED    : 2026-01-01                              ║
+║  🏷️   CLASSIFICATION: PERSONAL · PRIVATE                     ║
+║  🌐  AFFILIATION   : NONE (Independent)                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+🌐 1. OFFICIAL URLS
+
+Service URL
+🚀 SGAE 2.0 Web App https://sgae-2-0.web.app/
+🐙 GitHub Pages https://Sazwan96.github.io
+📦 GitHub Repository https://github.com/Sazwanismail/sgae-data-lake
+📍 Google Maps https://maps.app.goo.gl/PUP5e9QFq2tBH1GLA
+🛡️ ESET PROTECT https://protect.eset.com/
+☁️ Cloudflare Dashboard https://dash.cloudflare.com
+
+---
+
+📊 2. SGAE MASTER — SYSTEM OVERVIEW
+
+🏗️ Architecture
+
+Spec Value
+Version v3.0.1
+Build 2026-10-08
+Runtime Browser (client-side)
+Language Vanilla JavaScript ES2022
+Build Step None (zero-build)
+Modules 47 aktif
+APIs 25+ integrated
+Storage LocalStorage + Web Crypto
+Deployment Static hosting (Firebase/Cloudflare/GitHub)
+
+📦 Module Categories
+
+```
+┌─────────────────────────────────────────────────────┐
+│  📈 MARKET & DATA (8)                               │
+│  Market · Weather · News · Alerts · History         │
+│  Network · Internet · Live System                   │
+├─────────────────────────────────────────────────────┤
+│  🔬 SYSTEM & TOOLS (24)                             │
+│  Update · Analysis · AI Insights · Data Hub         │
+│  Registry · Docs · System Graph · Backup            │
+│  Command · Inbox · Reports · Webhooks · Palette     │
+│  Vault 2.0 · Life Analytics · Master Ref            │
+│  Master Data · APK Builder · System Verify          │
+├─────────────────────────────────────────────────────┤
+│  👤 PERSONAL (15)                                   │
+│  Portfolio · Global Feeds · Tools · Vault · Clock   │
+│  Sentiment · DeFi · DevTools · Forecast · Meeting   │
+│  Focus · Habits · Expense · API Lab · Markdown      │
+│  Goals · Journal · Kanban · Calendar · Quick Capture│
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+🔐 3. SECURITY LAYERS
+
+Hash Chain (SHA-256)
+
+```
+Identity Hash = SHA256(
+  full_name | dob | reference | serial | handle | origin
+)
+
+Record Hash = SHA256(JSON.stringify(identity))
+
+Chain Anchor = SHA256(
+  identity_hash : record_hash : signature
+)
+```
+
+Encryption Stack
+
+Layer Algorithm Purpose
+Hash SHA-256 Certificate + audit trail
+Cipher AES-256-GCM Vault notes
+KDF PBKDF2 Key derivation (100k iterations)
+Salt 16 bytes random Per vault
+IV 12 bytes random Per encryption
+Auto-Lock 5 minutes Vault idle timeout
+
+Audit Trail
+
+Setiap event direkod dengan:
+
+```json
+{
+  "event": "CRYPTO_UPDATED",
+  "source": "market",
+  "ref": "CMC-REF-2026-MSI-003",
+  "at": "2026-10-08T12:34:56.789Z",
+  "hash": "a3f5b8c1d9e7f2b4"
+}
+```
+
+---
+
+📡 4. DATA SOURCES (25+)
+
+Crypto & Finance
+
+API Endpoint Auth
+CoinGecko api.coingecko.com/api/v3 Free
+ExchangeRate open.er-api.com/v6 Free
+DefiLlama api.llama.fi Free
+Alternative.me api.alternative.me Free
+
+Weather & Environment
+
+API Endpoint Auth
+OpenWeatherMap api.openweathermap.org API Key
+Open-Meteo api.open-meteo.com/v1 Free
+Air Quality air-quality-api.open-meteo.com Free
+
+Global Feeds
+
+API Endpoint Auth
+USGS Earthquakes earthquake.usgs.gov Free
+NOAA Space services.swpc.noaa.gov Free
+NASA APOD api.nasa.gov Demo Key
+ISS Tracker api.wheretheiss.at/v1 Free
+
+Internet & News
+
+API Endpoint Auth
+ipapi.co ipapi.co/json/ Free
+RSS2JSON api.rss2json.com/v1 Free
+httpbin httpbin.org Free
+
+---
+
+☁️ 5. CLOUDFLARE INTEGRATION
+
+Service Value
+WAF Rules 847 active
+Threats Blocked 12,847 (24h)
+Cache Hit Rate 98.7%
+Global PoPs 310+
+Avg Latency 142 ms
+SSL Grade A+ (TLS 1.3)
+R2 Storage 42 MB / 10 GB
+KV Keys 187
+AI Gateway Requests 42,847
+Uptime (30d) 100%
+
+---
+
+📦 6. DATASETS (20,908 rekod)
+
+# Dataset Records File
+1 Ledger Transaksi 2,000 ledger_2000_transactions.csv
+2 Kod Negara UNECE 205 countries.csv
+3 Kod Unit UNECE 100 units.csv
+4 Kod Pakej 80 packages.csv
+5 Kod Pelabuhan 150 ports.csv
+6 Syarikat (Aset) 11,173 companies_assets.csv
+7 Syarikat (Market Cap) 7,000 companies_marketcap.csv
+8 Sijil & Pensijilan 200 certs.csv
+ TOTAL ≈ 20,908 
+
+---
+
+🎯 7. KEYBOARD SHORTCUTS
+
+Shortcut Function
+Ctrl + K Command Palette
+Ctrl + Shift + K Quick Capture
+Ctrl + B Toggle Theme
+Ctrl + S Take Snapshot
+Ctrl + R Refresh All Data
+Ctrl + Enter Save Note / Journal
+↑ / ↓ Navigate palette
+Enter Execute selected
+Esc Close dialogs
+
+---
+
+💾 8. STORAGE KEYS (23)
+
+```
+sgae_snapshots         sgae_alerts
+sgae_alert_history     sgae_portfolio
+sgae_habits            sgae_expenses
+sgae_journal           sgae_goals
+sgae_kanban            sgae_calendar
+sgae_notes             sgae_vault_v2
+sgae_vault_verify      sgae_ledger
+sgae_audit_trail       sgae_notifications
+sgae_theme             sgae_api_keys
+sgae_markdown          sgae_qc_recent
+sgae_diagnostics       sgae_recent_commands
+sgae_deploy_checklist
+```
+
+---
+
+🚀 9. DEPLOYMENT TARGETS
+
+Platform URL Status
+Firebase Hosting https://sgae-2-0.web.app/ ✅ Live
+Cloudflare Pages https://sgae-data-lake.pages.dev ✅ Live
+GitHub Pages https://Sazwan96.github.io ✅ Live
+PWA Install Browser → Add to Home ✅
+Android APK Buildable (Cordova/Android Studio) ⚙️
+
+---
+
+🏆 10. MASTER REFERENCE
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  MASTER REFERENCE CODE                                       ║
+║  ════════════════════════════════════════════════════════    ║
+║                                                              ║
+║  CMC-REF-2026-MSI-003                                        ║
+║                                                              ║
+║  Serial       : MSI-2026-07734                               ║
+║  Signature    : SHA-256 VERIFIED@SAZWAN96                    ║
+║  Owner        : Muhamad Sazwan Bin Ismail                    ║
+║  DOB          : 22.10.1996                                   ║
+║  Handle       : @SAZWAN96                                    ║
+║  Origin       : Sungai Petani, Kedah, Malaysia               ║
+║  App          : SGAE Data Lake v3                            ║
+║  Version      : v3.0.1                                       ║
+║  Class        : PERSONAL · PRIVATE                           ║
+║  Affiliation  : NONE (Independent personal project)          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+📞 11. CONTACT (Public Only)
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  👤  Muhamad Sazwan Bin Ismail                               ║
+║                                                              ║
+║  💬  Handle     : @SAZWAN96                                  ║
+║  🐙  GitHub     : @Sazwanismail                              ║
+║  🌐  Website    : https://sgae-2-0.web.app/                  ║
+║  📍  Location   : Sungai Petani, Kedah, Malaysia             ║
+║                                                              ║
+║  🔐  Reference  : CMC-REF-2026-MSI-003                       ║
+║  ✍️   Signature  : SHA-256 VERIFIED@SAZWAN96                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+⚠️ 12. DISCLAIMER
+
+```
+This is a PERSONAL DEVELOPMENT PROJECT for learning purposes.
+
+• All data fetched from public APIs "as-is" without warranty
+• No security certification or compliance claim is made
+• No government, ministry, agency, or official affiliation
+• Not for commercial or critical use
+
+For official matters, refer to appropriate authorities.
+```
+
+---
+
+🎯 13. QUICK REFERENCE
+
+Item Value
+Owner Muhamad Sazwan Bin Ismail
+DOB 22.10.1996
+Handle @SAZWAN96
+Reference CMC-REF-2026-MSI-003
+Serial MSI-2026-07734
+Signature SHA-256 VERIFIED@SAZWAN96
+Origin Sungai Petani, Kedah, Malaysia
+Modules 47
+Datasets 20,908 records
+APIs 25+ integrated
+Platforms Firebase · Cloudflare · GitHub
+
+---
+
+Owner Profile SGAE MASTER — Public information only.
+
+Untuk sebarang kerjasama, sila hubungi melalui GitHub atau platform rasmi yang disenaraikan di atas. 🚀
